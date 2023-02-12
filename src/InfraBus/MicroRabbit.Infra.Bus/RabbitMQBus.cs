@@ -5,7 +5,6 @@ using MicroRabbit.Domain.Core.Events;
 using Newtonsoft.Json;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
-using System.Diagnostics;
 using System.Text;
 
 namespace MicroRabbit.Infra.Bus
